@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">note_app</string>
+    <string name="add">add</string>
+    <string name="entertitle">enter title</string>
+    <string name="enterdetails">enter details</string>
+    <string name="savebutton">save button</string>
+    <string name="delete">delete</string>
+    <string name="toastTitle">the title is empty</string>
+    <string name="message">are you sure?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="notedeletos">long press to delete the note</string>
+
+</resources>
